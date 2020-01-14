@@ -17,6 +17,11 @@ copyright = [
 "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
 ]
 
+[[redirects]]
+  from = "/"
+  to = "https://blog.oak-means.com/"
+  status = 302
+  force = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
