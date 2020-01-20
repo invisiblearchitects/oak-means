@@ -5,23 +5,17 @@ theme = "hugo-nederburg-theme"
 # Unmark to use post folder for images. Default is static folder.
 #usepostimgfolder = true
 slogan = "semantic arguments"
-description = "Weblog of the OaK-means project" # meta description
+description = "Weblog of the oaK-means project" # meta description
 # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
 author = "John Kavanagh"
 authorLink = "https://invisiblearchitects.com"
 bio = [
-"John is the created and produces the OaK-means project"
+"John is the created and produced the oaK-means project"
 ]
 copyright = [
 "&copy; 2020 John Kavanagh",
 "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
 ]
-
-[[redirects]]
-  from = "/"
-  to = "https://blog.oak-means.com/"
-  status = 302
-  force = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
