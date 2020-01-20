@@ -1,6 +1,6 @@
 baseURL = "https://blog.oak-means.com/"
 languageCode = "en-ie"
-title = "OaK-means web log"
+title = "oaK-means web log"
 theme = "hugo-nederburg-theme"
 # Unmark to use post folder for images. Default is static folder.
 #usepostimgfolder = true
